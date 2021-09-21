@@ -1,2 +1,1 @@
-# zero_day
-Testing the repo
+This is the initial file.
